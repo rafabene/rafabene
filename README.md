@@ -15,7 +15,6 @@ Hi, My name is [Rafael Benevides](http://rafabene.com). I help Java Professional
   <img align="center" alt="Rafa-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="Rafa-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://rafabene.com/assets/images/Rafael18.png">
 </div>
   
 ##
