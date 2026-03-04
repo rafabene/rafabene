@@ -13,7 +13,7 @@
 
 ### About me
 
-Brazilian software engineer with 20+ years of experience building enterprise and cloud-native applications. I help developers apply the best strategies in the industry to produce high-scalable software using Java, Go, Kubernetes, and modern DevOps practices.
+Brazilian software engineer with 25+ years of experience building enterprise and cloud-native applications. I help developers apply the best strategies in the industry to produce high-scalable software using Java, Go, Kubernetes, and modern DevOps practices.
 
 ---
 
@@ -56,9 +56,9 @@ Full list at [rafabene.com/talks](https://rafabene.com/talks/)
 ### Connect with me
 
 <div>
-  <a href="https://rafabene.com"><img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
+  <a href="https://rafabene.com"><img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/rafabene/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/rafabene"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/rafabene"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.youtube.com/user/rafabene"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:rafabene@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
