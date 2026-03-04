@@ -46,14 +46,10 @@ Full list at [rafabene.com/talks](https://rafabene.com/talks/)
 
 ### GitHub stats
 
-<div align="center">
-  <picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafabene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabene&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-  </picture>
-</div>
+<p align="center">
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
+</p>
 
 ---
 
