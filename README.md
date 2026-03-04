@@ -58,7 +58,7 @@ Full list at [rafabene.com/talks](https://rafabene.com/talks/)
 <div>
   <a href="https://rafabene.com"><img src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/rafabene/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/rafabene"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/rafabene"><img src="https://img.shields.io/badge/-@rafabene-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.youtube.com/user/rafabene"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:rafabene@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
