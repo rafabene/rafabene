@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rafael Benevides' GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 263, Total Commits  : 16271, Total PRs: 484, Total Issues: 225, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 263, Total Commits  : 16280, Total PRs: 484, Total Issues: 225, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.940747737298105;
+        stroke-dashoffset: 13.941670756769822;
       }
     }
   
